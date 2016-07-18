@@ -1,4 +1,4 @@
-# twitter-api
+# Twitter API
 
 This project is provided under the terms of the [MIT license](http://choosealicense.com/licenses/mit/).
 
